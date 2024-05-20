@@ -38,9 +38,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,dart" /><br>
-   <img src="https://skillicons.dev/icons?i=react,styledcomponents,sass,tailwind,bootstrap" /><br>
-   <img src="https://skillicons.dev/icons?i=express,mysql,firebase,figma," /><br>
+  <img src="https://skillicons.dev/icons?i=js,py" /><br>
+   <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" /><br>
+   <img src="https://skillicons.dev/icons?i=firebase,figma," /><br>
 </div>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
